@@ -19,7 +19,7 @@
 
     Dkim_create(ssh,'domain.com')
 
-####Example Output :
+#Example Output :
     
     {
         status: 'success',
